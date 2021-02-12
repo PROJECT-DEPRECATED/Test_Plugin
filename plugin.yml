@@ -1,0 +1,10 @@
+name: Test_Plugin
+author: Project_TL
+version: 0.0.1
+api-version: 3.0.0
+main: org/projecttl/plugin/test/TestPlugin
+
+commands:
+  test:
+    description: This is test command.
+    usage: /test
